@@ -1,6 +1,7 @@
 # Code Quiz
 
 link to website: https://sqpr99.github.io/code-quiz/
+<br>
 link to repo: https://github.com/SqPR99/code-quiz
 
 Welcome to the quiz! This quiz has 5 questions and is based on Destiny 2
