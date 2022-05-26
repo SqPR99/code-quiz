@@ -1,5 +1,8 @@
 # Code Quiz
 
+link to website: https://sqpr99.github.io/code-quiz/
+link to repo: https://github.com/SqPR99/code-quiz
+
 Welcome to the quiz! This quiz has 5 questions and is based on Destiny 2
 <br>
 Be careful and take your time because during the test, if you get a question wrong you will have time taken off of your time limit in the top left:
